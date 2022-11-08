@@ -6,3 +6,5 @@ job
 mail
 book
 pen
+flower
+ball
