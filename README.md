@@ -4,3 +4,5 @@ class
 write
 job
 mail
+book
+pen
